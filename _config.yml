@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+title: Seriesmatch
+url: https://ckaps1.github.io
+baseurl: /Seriesmatch
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -86,14 +86,10 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
     - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
     - Twitter
     - YouTube
-    - RSS
+    
 
 _comments:
   map: Update the map location and display settings.
