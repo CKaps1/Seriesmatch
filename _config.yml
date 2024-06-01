@@ -2,8 +2,8 @@
 # Site
 
 title: Seriesmatch
-url: ""
-baseurl: ""
+url: "https://ckaps1.github.io"
+baseurl: "/Seriesmatch"
 google_analytics_key:
 google_maps_javascript_api_key: 
 disqus_shortname:
