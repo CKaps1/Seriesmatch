@@ -1,12 +1,12 @@
 ---
-date: 2020-07-20
-title: The process for direct sales
+date: 2024-06-02
+title: Collision Conference 2024
 categories:
   - sales
-author_staff_member: anna
+author_staff_member: Christian Kapsales
 ---
 
-Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
+The collision conference is being held in Toronto for 2024. Many companies, investors, startups and develops will be coming together at the enercare centre.
 
 ![Checkmate](https://source.unsplash.com/random/1500x1145)
 
