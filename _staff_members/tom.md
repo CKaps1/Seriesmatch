@@ -1,7 +1,7 @@
 ---
 name: Daniel Bicka
 position: Co-founder
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
+image_path: .././images/danielbicka.jpg
 twitter: CloudCannonApp
 blurb: Does not play enough table tennis
 ---
